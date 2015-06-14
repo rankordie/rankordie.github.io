@@ -63,7 +63,7 @@ a {
   /*ray couple edits here */
      background: #f06;
     background: linear-gradient(45deg, #f06, blue);
-    min-height: 100%;
+   /* min-height: 100%;*/
     color:#eee;
     z-index: 1;
     overflow: hidden;
